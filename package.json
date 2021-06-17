@@ -1,7 +1,7 @@
 {
   "name": "@brito/header",
   "scripts": {
-    "start": "webpack serve --port 3000",
+    "start": "webpack serve --port 9000",
     "start:standalone": "webpack serve --env standalone",
     "build": "webpack --mode=production",
     "analyze": "webpack --mode=production --env analyze",

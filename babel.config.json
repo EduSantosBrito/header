@@ -15,7 +15,8 @@
         "useESModules": true,
         "regenerator": false
       }
-    ]
+    ],
+    "babel-plugin-styled-components"
   ],
   "env": {
     "test": {
